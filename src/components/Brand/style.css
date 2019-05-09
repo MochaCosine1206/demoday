@@ -1,0 +1,7 @@
+#brand {
+    height: 500px;
+    width: 500px;
+    background-image: url("./images/stevePortraitB.svg");
+    background-repeat: no-repeat;
+    background-size: auto;
+}

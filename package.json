@@ -2,9 +2,11 @@
   "name": "demoday",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://MochaCosine1206.github.io/demoday",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.1"
   },
   "scripts": {

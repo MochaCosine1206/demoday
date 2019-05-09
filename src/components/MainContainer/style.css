@@ -1,0 +1,11 @@
+#maincontainer {
+    margin-top: 10vh;
+    margin-left: 5%;
+}
+
+h1 {
+    font-family: "gothic-open-shaded", sans-serif;
+    font-size: 80px;
+    color: #3b3a36;
+    margin-bottom: 5px;
+}
