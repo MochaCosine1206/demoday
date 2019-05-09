@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b520a6a69075e8736e05670f51510c56",
+    "revision": "d655008c5862b5425cbfcb16d541ef17",
     "url": "/demoday/index.html"
   },
   {
-    "revision": "e4378d0442162a742548",
-    "url": "/demoday/static/css/main.5c0ad30f.chunk.css"
+    "revision": "0d7c6842636007639c5d",
+    "url": "/demoday/static/css/main.a117cd1f.chunk.css"
   },
   {
     "revision": "681b51057d74cfa8975d",
     "url": "/demoday/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "e4378d0442162a742548",
+    "revision": "0d7c6842636007639c5d",
     "url": "/demoday/static/js/main.ae42eed3.chunk.js"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/demoday/static/js/runtime~main.681ce6b2.js"
   },
   {
-    "revision": "7c55ff2782277cb649c50d68127b612c",
-    "url": "/demoday/static/media/linkedin-qr-code.7c55ff27.svg"
+    "revision": "3bcdc4a1a314772c8695dbba46d0f5b2",
+    "url": "/demoday/static/media/linkedin-qr-code.3bcdc4a1.svg"
   },
   {
-    "revision": "8df477151b5fdfdd75ecaea7beaa6efe",
-    "url": "/demoday/static/media/resume-qr-code.8df47715.svg"
+    "revision": "eb867230aa7f0e0f2fe9ce0ab3531226",
+    "url": "/demoday/static/media/resume-qr-code.eb867230.svg"
   },
   {
     "revision": "102a81008bc0b461878f14648736325b",

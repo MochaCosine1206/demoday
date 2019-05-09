@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/demoday/static/css/main.5c0ad30f.chunk.css",
+    "main.css": "/demoday/static/css/main.a117cd1f.chunk.css",
     "main.js": "/demoday/static/js/main.ae42eed3.chunk.js",
     "main.js.map": "/demoday/static/js/main.ae42eed3.chunk.js.map",
     "runtime~main.js": "/demoday/static/js/runtime~main.681ce6b2.js",
@@ -8,9 +8,9 @@
     "static/js/2.65aa1cca.chunk.js": "/demoday/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/demoday/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/demoday/index.html",
-    "precache-manifest.afdeff075a302f9e64af64160fce77aa.js": "/demoday/precache-manifest.afdeff075a302f9e64af64160fce77aa.js",
+    "precache-manifest.c093a0616531d767559338e8b3ba292e.js": "/demoday/precache-manifest.c093a0616531d767559338e8b3ba292e.js",
     "service-worker.js": "/demoday/service-worker.js",
-    "static/css/main.5c0ad30f.chunk.css.map": "/demoday/static/css/main.5c0ad30f.chunk.css.map",
+    "static/css/main.a117cd1f.chunk.css.map": "/demoday/static/css/main.a117cd1f.chunk.css.map",
     "static/media/style.css": "/demoday/static/media/stevePortraitB.102a8100.svg"
   }
 }
