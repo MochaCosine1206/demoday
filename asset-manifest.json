@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/demoday/static/css/main.de4faedd.chunk.css",
+    "main.js": "/demoday/static/js/main.2dc013d9.chunk.js",
+    "main.js.map": "/demoday/static/js/main.2dc013d9.chunk.js.map",
+    "runtime~main.js": "/demoday/static/js/runtime~main.681ce6b2.js",
+    "runtime~main.js.map": "/demoday/static/js/runtime~main.681ce6b2.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/demoday/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/demoday/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/demoday/index.html",
+    "precache-manifest.ca9896ef684eaeb4017d220feb4845e8.js": "/demoday/precache-manifest.ca9896ef684eaeb4017d220feb4845e8.js",
+    "service-worker.js": "/demoday/service-worker.js",
+    "static/css/main.de4faedd.chunk.css.map": "/demoday/static/css/main.de4faedd.chunk.css.map",
+    "static/media/style.css": "/demoday/static/media/stevePortraitB.102a8100.svg"
+  }
+}
