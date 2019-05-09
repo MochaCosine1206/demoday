@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Row, Container, Col } from "../Grid";
+import { Row, Col } from "../Grid";
 import Brand from "../Brand"
 import Hero from "../Hero"
 import Links from "../Links"

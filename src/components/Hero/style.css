@@ -1,5 +1,23 @@
+#linkedIn {
+    height: 200px;
+    width: 200px;
+    background-image: url("../Brand/images/linkedin-qr-code.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5px;
+}
+
+#resume {
+    height: 200px;
+    width: 200px;
+    background-image: url("../Brand/images/resume-qr-code.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 5px;
+}
+
 .jumbotron {
     width: 100vw;
     margin: auto;
-    height: 100px;
+    height: 105px;
 }

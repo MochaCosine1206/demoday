@@ -4,7 +4,9 @@ import "./style.css";
 
 export function Brand() {
     return (
-        <div id="brand">
+        <div>
+            <div id="pic">
+            </div>
         </div>
 
     );

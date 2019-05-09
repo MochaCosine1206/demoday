@@ -5,7 +5,7 @@ import "./style.css";
 export function Links(props) {
     return (
         <div id="links" style={props.style}>
-            <a href={props.url} target="_blank" style={{ color: props.style.color }}>{props.text}</a>
+            <a href={props.url} target="_blank" rel="noopener noreferrer" style={{ color: props.style.color }}>{props.text}</a>
         </div>
 
     );
